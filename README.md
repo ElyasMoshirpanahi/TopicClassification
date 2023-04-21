@@ -1,6 +1,11 @@
 # News Topic Classification
 This is a Python project for classifying news articles into different topics using machine learning and deep learning techniques. The project includes a web scraper that collects news articles from several popular news websites, a machine learning model based on SVM, and a deep learning model based on a convolutional neural network (CNN).
 
+
+
+<br><br>
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicyIDz7f3jwtdBbHcEQrJzpir0Qn4PiMnYA&usqp=CAU)
+
 Dependencies
 To run this project, you'll need the following dependencies installed:
 
